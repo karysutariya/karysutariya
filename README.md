@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate Python developer and AI guy.</h3>
 
-<p align="center"><img src="images/Groot-Baby-Groot-GIF-Groot-BabyGroot-Marvel-Discover-Share-GIFs.gif"></p>
+<p align="center"><img src="images/hello-there-private-from-penguins-of-madagascar.gif"></p>
 
 - `whoami` Research Assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/"> CENPARMI </a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
 
