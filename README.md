@@ -19,7 +19,7 @@
 
 - `print(intro)` Master of Applied Computer Science student at <a href="https://www.concordia.ca/">@Concordia University</a>
 
-- `abs(experience)` Worked at <a href="https://www.benzatine.com/">@Benzatine infotech</a> as Python developer and currently working as freelancer.  
+- `abs(experience)` Worked at <a href="https://www.benzatine.com/">@Benzatine infotech</a> as Python developer for a year and currently working as freelancer.  
 
 - `time.timedelta()` 23 years
 
