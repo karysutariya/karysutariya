@@ -52,10 +52,10 @@
 	<a href="mailto:ma.karysutariya1234@gmail.com" target="_blank">
 		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
 	</a>
-	<a href="https://www.linkedin.com/in/karysutariya/" target="_blank"">
+	<a href="https://www.linkedin.com/in/karysutariya" target="_blank"">
 		<img align="center" src="images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
 	</a>
-	<a href="https://www.instagram.com/karysutariya/" target="_blank"">
+	<a href="https://www.instagram.com/karysutariya" target="_blank"">
 		<img align="center" src="images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
 	</a>
 </p>
@@ -66,7 +66,7 @@
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="50" width="50" />
-		<img align="center" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png" alt="devicon" height="50" width="50" />
+		<img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="80" width="80" />
 		<img align="center" src="https://studygyaan.com/wp-content/uploads/2021/12/CicamXxN_400x400-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://spng.subpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-5b86feeb86e8a1.1534670415355737395526.jpg" alt="devicon" height="50" width="50" />
