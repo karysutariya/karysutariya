@@ -17,13 +17,15 @@
 
 <p align="center"><img src="images/hello-there-private-from-penguins-of-madagascar.gif"></p>
 
-- `whoami` Research Assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/"> CENPARMI </a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
+- `print(intro)` Master of Applied Computer Science student at <a href="https://www.concordia.ca/">@Concordia University</a>
 
-- `uptime` 25 years
+- `abs(experience)` Worked at <a href="https://www.benzatine.com/">@Benzatine infotech</a> as Python developer and currently working as freelancer.  
 
-- `pwd` Montreal, Canada
+- `time.timedelta()` 23 years
 
-- `ps -a` Learning ML and DL concepts as well as Computer Vision Techniques
+- `os.getcwd()` Montreal, Canada
+
+- `Kary.fit()` Learning AI and ML concepts at profound level 
 
 <h3 align="left">Connect with me:</h3>
 <!--
