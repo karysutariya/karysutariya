@@ -19,9 +19,9 @@
 
 - `print(intro)` Master of Applied Computer Science student at <a href="https://www.concordia.ca/">@Concordia University</a>
 
-- `abs(experience)` Worked at <a href="https://www.benzatine.com/">@Benzatine infotech</a> as Python developer for a year and currently working as freelancer.  
+- `abs(experience)` Worked at <a href="https://www.benzatine.com/">@Benzatine infotech</a> as Python developer for a year and currently working as Teaching assistant at Concordia University and sometime freelancer too.  
 
-- `time.timedelta()` 23 years
+- `time.timedelta()` 24 years
 
 - `os.getcwd()` Montreal, Canada
 
