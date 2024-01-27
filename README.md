@@ -19,9 +19,9 @@
 
 - `print(intro)` Master of Applied Computer Science student at <a href="https://www.concordia.ca/">@Concordia University</a>
 
-- `abs(experience)` Worked at <a href="https://www.benzatine.com/">@Benzatine infotech</a> as Python developer for a year and currently working as Teaching assistant at Concordia University and sometime freelancer too.  
+<!-- - `abs(experience)` Worked at <a href="https://www.benzatine.com/">@Benzatine infotech</a> as Python developer for a year and currently working as Teaching assistant at Concordia University and sometime freelancer too.  -->
 
-- `time.timedelta()` 24 years
+- `time.timedelta()` 25 years
 
 - `os.getcwd()` Montreal, Canada
 
@@ -44,7 +44,7 @@
 	</a>
 	<a href="https://www.joinclubhouse.com/@ma_shamshiri" target="_blank">
 		<img align="center" src="images/contacts/clubhouse.png" alt="email" height="40" width="40" />
-    </a>
+        </a>
 	<a href="mailto:ma.karysutariya1234@gmail.com" target="_blank">
 		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
     </a>
@@ -54,9 +54,9 @@
 	<a href="mailto:ma.karysutariya1234@gmail.com" target="_blank">
 		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
 	</a>
-	<a href="https://www.linkedin.com/in/karysutariya" target="_blank"">
+<!-- 	<a href="https://www.linkedin.com/in/karysutariya" target="_blank"">
 		<img align="center" src="images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
-	</a>
+	</a> -->
 	<a href="https://www.instagram.com/karysutariya" target="_blank"">
 		<img align="center" src="images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
 	</a>
